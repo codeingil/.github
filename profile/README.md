@@ -5,7 +5,7 @@
 <div align="center">
 
 ![Status](https://img.shields.io/badge/Status-🚀%20Active-brightgreen?style=flat-square&color=00D084)
-![Founded](https://img.shields.io/badge/Founded-2026-blue?style=flat-square)
+![Founded](https://img.shields.io/badge/Founded-2023-blue?style=flat-square)
 ![Location](https://img.shields.io/badge/📍%20Location-Tamil%20Nadu%2C%20India-orange?style=flat-square)
 ![Expertise](https://img.shields.io/badge/Expertise-Full%20Stack%20Engineering-blueviolet?style=flat-square)
 
